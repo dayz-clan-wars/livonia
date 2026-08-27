@@ -53,85 +53,86 @@
 		<hoarder />
 	</type>
 	<type name="GiftWrapPaper">
-		<damage min="0.0" max="0.32" />
 	</type>
 	<type name="NVGoggles">
-		<damage min="0.0" max="0.32" />
 	</type>
 	
 	<type name="KazuarOptic">
-		<damage min="0.0" max="0.32" />
 	</type>
 	
 	<type name="StarlightOptic">
-		<damage min="0.0" max="0.32" />
 	</type>
 	
 	<type name="AugOptic">
-		<damage min="0.0" max="0.0" />
 	</type>
 	
 	<type name="SSG82Optic">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ChristmasHeadband_Antlers">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ChristmasHeadband_Trees">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ChristmasHeadband_Gingerbread">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="MorsecodeLeaflet_blood">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="MorsecodeLeaflet_coffee">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="MorsecodeLeaflet_fire">
-		<damage min="0.0" max="0.0" />
 	</type>	
 	<type name="PlateCarrierVest">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="PlateCarrierVest_Black">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="PlateCarrierHolster_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="PlateCarrierPouches_Black" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="PlateCarrierVest_Green">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
-			<item name="PlateCarrierHolster_Green" chance="1.00" />
+	<type name="PlateCarrierVest_Camo">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
-			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="PlateCarrierVest_Desert">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.25">
+		<attachments chance="1.00">
 			<item name="PlateCarrierHolster_Desert" chance="1.00" />
 		</attachments>
-		<attachments chance="0.15">
+		<attachments chance="1.00">
 			<item name="PlateCarrierPouches_Desert" chance="1.00" />
 		</attachments>
-	</type> 
-	<type name="PlateCarrierPouches_Desert">
-		<cargo chance="1.0">
-			<item name="MorsecodeLeaflet_blood" chance="0.33" />
-			<item name="MorsecodeLeaflet_fire" chance="0.33" />
-			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
-		</cargo>
+	</type>
+	<type name="PlateCarrierVest_Green">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest_Winter">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Winter" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Mich2001Helmet">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
@@ -140,46 +141,32 @@
 	<type name="Glowplug">
 	</type>
 	<type name="CarRadiator">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="CarBattery">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="TruckBattery">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="SmallStone">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="Stone">
-		<damage min="0.1" max="0.1" />
 	</type>
 	<type name="FilteringBottle">
-		<damage min="0.1" max="0.1" />
 	</type>
 	<type name="ScientificBriefcase">
-		<damage min="0.1" max="0.1" />
 	</type>
 	<type name="ScientificBriefcaseKeys">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Blue">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Yellow">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Red">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Orange">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="Ammo_40mm_Explosive">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="Ammo_40mm_POX">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="AssaultBag_Ttsko">
 		<cargo preset="mixArmy" />
@@ -431,7 +418,6 @@
 		</cargo>
 	</type>
 	<type name="BandageDressing">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="AmmoBox">
 		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
@@ -524,19 +510,16 @@
 		</attachments>
 	</type>	
 	<type name="AirborneMask">
-		<damage min="0.0" max="0.35" />
 		<attachments chance="0.2">
 			<item name="GasMask_Filter" />
 		</attachments>
 	</type>
 	<type name="GP5GasMask">
-		<damage min="0.0" max="0.35" />
 		<attachments chance="0.2">
 			<item name="GasMask_Filter" />
 		</attachments>
 	</type>
 	<type name="GasMask">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="Bear_Beige">
 		<cargo chance="0.00">
@@ -2584,14 +2567,12 @@
 		</attachments>
 	</type>
 	<type name="Winchester70">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.15">
 			<item name="SportingOptic" chance="0.90" />
 			<item name="HuntingOptic" chance="0.10" />
 		</attachments>
 	</type>
 	<type name="Mosin9130">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.10">
 			<item name="Mosin_Compensator" chance="1.00" />
 		</attachments>
@@ -2600,13 +2581,11 @@
 		</attachments>
 	</type>
 	<type name="SKS">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.10">
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="AKM">
-		<damage min="0.45" max="0.85" />
 		<attachments chance="0.25">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
@@ -2649,7 +2628,6 @@
 		</attachments>
 	</type>
 	<type name="AK101">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.25">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
@@ -2665,7 +2643,6 @@
 		</attachments>
 	</type>
 	<type name="M4A1">
-		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
@@ -2684,7 +2661,6 @@
 		</attachments>
 	</type>
 	<type name="M16A2">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.1">
 			<item name="Mag_CMAG_40Rnd" chance="0.15" />
 			<item name="Mag_CMAG_10Rnd" chance="0.50" />
@@ -2693,7 +2669,6 @@
 		</attachments>
 	</type>
 	<type name="FAMAS">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.1">
 			<item name="Mag_FAMAS_25Rnd" chance="1.0" />
 		</attachments>
@@ -2714,13 +2689,11 @@
 		</attachments>
 	</type>
 	<type name="AugShort">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.25">
 			<item name="Mag_Aug_30Rnd" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="FAL">
-		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">
 			<item name="Fal_FoldingBttstck" chance="0.50" />
 			<item name="Fal_OeBttstck" chance="0.50" />
@@ -2737,7 +2710,6 @@
 		</attachments>
 	</type>
 	<type name="SCARH">
-		<damage min="0.15" max="0.35" />
 		<attachments chance="1.00">
 			<item name="SCAR_PrecisionBttstck" chance="0.50" />
 			<item name="SCAR_StockBttstck" chance="0.50" />
@@ -2754,7 +2726,6 @@
 		</attachments>
 	</type>
 	<type name="SCARH_Black">
-		<damage min="0.15" max="0.35" />
 		<attachments chance="1.00">
 			<item name="SCAR_PrecisionBttstck_Black" chance="0.50" />
 			<item name="SCAR_StockBttstck_Black" chance="0.50" />
@@ -2771,7 +2742,6 @@
 		</attachments>
 	</type>
 	<type name="SVD">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.1">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
@@ -2781,7 +2751,6 @@
 		</attachments>
 	</type>
 	<type name="SVD_Wooden">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.1">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
@@ -2807,7 +2776,6 @@
 		</attachments>
 	</type>
 	<type name="B95">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.2">
 			<item name="SportingOptic" chance="0.90" />
 			<item name="HuntingOptic" chance="0.10" />
@@ -2823,7 +2791,6 @@
 		</attachments>
 	</type>
 	<type name="Ruger1022">
-		<damage min="0.0" max="0.32" />
 		<attachments chance="0.20">
 			<item name="SportingOptic" chance="0.90" />
 			<item name="HuntingOptic" chance="0.10" />
@@ -2880,7 +2847,6 @@
 		</attachments>
 	</type>
 	<type name="CZ550">
-		<damage min="0.3" max="0.7" />
 		<attachments chance="0.20">
 			<item name="SportingOptic" chance="0.90" />
 			<item name="HuntingOptic" chance="0.10" />
@@ -2924,13 +2890,11 @@
 		</attachments>
 	</type>
 	<type name="MP133Shotgun">
-		<damage min="0.0" max="0.32" />
 		<attachments chance="0.30">
 			<item name="FNP45_MRDSOptic" chance="0.30" />
 		</attachments>
 	</type>
 	<type name="PM73Rak">
-		<damage min="0.0" max="0.40" />
 		<attachments chance="0.45">
 			<item name="Mag_PM73_15Rnd" chance="0.80" />
 			<item name="Mag_PM73_25Rnd" chance="0.20" />
@@ -2957,43 +2921,30 @@
 		</attachments>
 	</type>
 	<type name="M4_Suppressor">
-		<damage min="0.0" max="0.32" />
 	</type>
 	<type name="PistolSuppressor">
-		<damage min="0.40" max="0.75" />
 	</type>
 	<type name="AK_Suppressor">
-		<damage min="0.0" max="0.32" />
 	</type>
 	<type name="NBCBootsGray">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCBootsYellow">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCGlovesGray">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCGlovesYellow">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCHoodGray">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCHoodYellow">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCJacketGray">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCJacketYellow">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCPantsGray">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="NBCPantsYellow">
-		<damage min="0.0" max="0.35" />
 	</type>
 	<type name="WaterBottle">
 	</type>

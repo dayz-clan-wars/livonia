@@ -1,0 +1,3268 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                11272.689453125,
+                328.6175231933594,
+                2393.801513671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Garage_Big",
+            "pos": [
+                100.0,
+                1000.0,
+                100.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.93862915039063,
+                998.372314453125,
+                90.59744262695313
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.93862915039063,
+                998.372314453125,
+                90.41648864746094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                6396.5068359375,
+                213.8990478515625,
+                9993.060546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.93862915039063,
+                998.372314453125,
+                90.23566436767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.93862915039063,
+                998.372314453125,
+                90.0553970336914
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.88421630859375,
+                998.372314453125,
+                90.59744262695313
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.88421630859375,
+                998.372314453125,
+                90.41648864746094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.88421630859375,
+                998.372314453125,
+                90.23566436767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.88421630859375,
+                998.372314453125,
+                90.0553970336914
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Blowtorch",
+            "pos": [
+                96.70047760009766,
+                998.376220703125,
+                90.60655975341797
+            ],
+            "ypr": [
+                -180.0,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                8891.6650390625,
+                305.4791564941406,
+                6474.2978515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                92.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                101.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Blowtorch",
+            "pos": [
+                96.70047760009766,
+                998.376220703125,
+                90.2914810180664
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.8237075805664,
+                998.372314453125,
+                90.59744262695313
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.8237075805664,
+                998.372314453125,
+                90.41648864746094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                94.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.8237075805664,
+                998.372314453125,
+                90.0553970336914
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.64146423339844,
+                998.36865234375,
+                90.26316833496094
+            ],
+            "ypr": [
+                90.0,
+                -1.2940646955120412e-20,
+                90.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                96.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "EpoxyPutty",
+            "pos": [
+                97.69335174560547,
+                998.3723754882813,
+                90.48895263671875
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "EpoxyPutty",
+            "pos": [
+                97.69335174560547,
+                998.3723754882813,
+                90.3117446899414
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                98.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.7684555053711,
+                998.372314453125,
+                90.41648864746094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.7684555053711,
+                998.372314453125,
+                90.23566436767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.7684555053711,
+                998.372314453125,
+                90.0553970336914
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ElectronicRepairKit",
+            "pos": [
+                97.51045227050781,
+                998.3805541992188,
+                90.37163543701172
+            ],
+            "ypr": [
+                -2.2733195326196666e-9,
+                -90.0,
+                2.2735360261094685e-9
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                100.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ElectronicRepairKit",
+            "pos": [
+                97.51045227050781,
+                998.3805541992188,
+                90.10791015625
+            ],
+            "ypr": [
+                -180.0,
+                -89.98020935058594,
+                180.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                102.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ElectronicRepairKit",
+            "pos": [
+                97.36431121826172,
+                998.3805541992188,
+                90.37163543701172
+            ],
+            "ypr": [
+                -180.0,
+                -89.98020935058594,
+                180.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ElectronicRepairKit",
+            "pos": [
+                97.36431121826172,
+                998.3805541992188,
+                90.10791015625
+            ],
+            "ypr": [
+                179.99998474121095,
+                -89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                101.5478286743164,
+                998.36669921875,
+                90.16746520996094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                104.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                101.14339447021485,
+                998.36669921875,
+                90.55097198486328
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                101.14339447021485,
+                998.36669921875,
+                90.16746520996094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                106.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                100.74209594726563,
+                998.36669921875,
+                90.55097198486328
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                100.74209594726563,
+                998.36669921875,
+                90.16746520996094
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                108.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                88.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Blowtorch",
+            "pos": [
+                96.70047760009766,
+                998.376220703125,
+                90.44609832763672
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                90.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                92.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                93.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                94.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                3497.316162109375,
+                500.0202331542969,
+                1839.3809814453126
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.8237075805664,
+                998.372314453125,
+                90.23566436767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                96.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986290931702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "EpoxyPutty",
+            "pos": [
+                97.69335174560547,
+                998.3723754882813,
+                90.67035675048828
+            ],
+            "ypr": [
+                -180.0,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                10242.0498046875,
+                269.3417053222656,
+                6685.0751953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                98.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                91.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                100.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                102.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983906745911,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                104.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TireRepairKit",
+            "pos": [
+                97.19914245605469,
+                998.3826293945313,
+                90.40257263183594
+            ],
+            "ypr": [
+                180.0,
+                -89.98020935058594,
+                -180.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                106.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999982118606567,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                101.7684555053711,
+                998.372314453125,
+                90.59744262695313
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                108.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998152256012,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "EpoxyPutty",
+            "pos": [
+                97.69335174560547,
+                998.3723754882813,
+                90.13896179199219
+            ],
+            "ypr": [
+                179.9999542236328,
+                89.97201538085938,
+                179.9999542236328
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                110.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                112.0,
+                998.6251831054688,
+                111.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979734420776,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                108.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979138374329,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                7693.07666015625,
+                256.6354064941406,
+                5033.7451171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                8534.861328125,
+                179.76593017578126,
+                11733.7861328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                11275.8154296875,
+                237.9943084716797,
+                453.12237548828127
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                5326.494140625,
+                177.81585693359376,
+                9741.7470703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                106.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999978542327881,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                1619.018798828125,
+                264.3426513671875,
+                6856.74169921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                104.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999977350234985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                101.5478286743164,
+                998.36669921875,
+                90.55097198486328
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                102.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999976754188538,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.77786254882813,
+                998.36865234375,
+                90.26316833496094
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                105.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                100.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                103.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.77786254882813,
+                998.36865234375,
+                90.64160919189453
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                98.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999974966049194,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.70999145507813,
+                998.36865234375,
+                90.26316833496094
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.70999145507813,
+                998.36865234375,
+                90.45633697509766
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.70999145507813,
+                998.36865234375,
+                90.64160919189453
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                96.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999974370002747,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                5927.21923828125,
+                297.3276062011719,
+                6572.681640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DuctTape",
+            "pos": [
+                97.85006713867188,
+                998.3854370117188,
+                90.24984741210938
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                94.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999973773956299,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.64146423339844,
+                998.36865234375,
+                90.45633697509766
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.64146423339844,
+                998.36865234375,
+                90.64160919189453
+            ],
+            "ypr": [
+                90.0,
+                -1.2940646955120412e-20,
+                90.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                114.0,
+                998.6251831054688,
+                92.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999972581863403,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                97.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                95.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                93.41488647460938,
+                999.5448608398438,
+                89.89126586914063
+            ],
+            "ypr": [
+                179.99998474121095,
+                -90.0,
+                179.99998474121095
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                9372.4189453125,
+                258.1857604980469,
+                10185.5390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                3660.30615234375,
+                258.98101806640627,
+                11530.19921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                89.44158935546875,
+                999.5448608398438,
+                89.89126586914063
+            ],
+            "ypr": [
+                -0.000022311800421448426,
+                -90.0,
+                -0.00002231179860245902
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TireRepairKit",
+            "pos": [
+                97.19914245605469,
+                998.3826293945313,
+                90.56390380859375
+            ],
+            "ypr": [
+                0.0,
+                -90.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                91.47693634033203,
+                999.5448608398438,
+                89.86480712890625
+            ],
+            "ypr": [
+                179.99996948242188,
+                -89.98020935058594,
+                179.99996948242188
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                110.44380187988281,
+                999.5448608398438,
+                89.89126586914063
+            ],
+            "ypr": [
+                -0.0000222573089558864,
+                -90.0,
+                -0.000022366290068021045
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                106.47050476074219,
+                999.5448608398438,
+                89.89126586914063
+            ],
+            "ypr": [
+                179.99996948242188,
+                -89.98020935058594,
+                179.99996948242188
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                108.50585174560547,
+                999.5448608398438,
+                89.86480712890625
+            ],
+            "ypr": [
+                179.9999542236328,
+                -89.98020935058594,
+                179.9999542236328
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TireRepairKit",
+            "pos": [
+                97.19914245605469,
+                998.3826293945313,
+                90.23942565917969
+            ],
+            "ypr": [
+                179.99998474121095,
+                -89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TireRepairKit",
+            "pos": [
+                97.19914245605469,
+                998.3826293945313,
+                90.07514190673828
+            ],
+            "ypr": [
+                179.99996948242188,
+                -89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Blowtorch",
+            "pos": [
+                96.70047760009766,
+                998.376220703125,
+                90.12542724609375
+            ],
+            "ypr": [
+                179.9999542236328,
+                89.97201538085938,
+                179.9999542236328
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LeatherSewingKit",
+            "pos": [
+                98.85201263427735,
+                998.3616943359375,
+                90.5422592163086
+            ],
+            "ypr": [
+                -180.0,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LeatherSewingKit",
+            "pos": [
+                98.85201263427735,
+                998.3616943359375,
+                90.24835205078125
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LeatherSewingKit",
+            "pos": [
+                98.45916748046875,
+                998.3616943359375,
+                90.5422592163086
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LeatherSewingKit",
+            "pos": [
+                98.45916748046875,
+                998.3616943359375,
+                90.24835205078125
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                6295.03173828125,
+                368.93572998046877,
+                3717.334228515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                98.17554473876953,
+                998.384765625,
+                90.56768798828125
+            ],
+            "ypr": [
+                -180.0,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                98.17554473876953,
+                998.384765625,
+                90.3635482788086
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                98.17554473876953,
+                998.384765625,
+                90.16706848144531
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                98.04130554199219,
+                998.384765625,
+                90.56768798828125
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                98.04130554199219,
+                998.384765625,
+                90.3635482788086
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                98.04130554199219,
+                998.384765625,
+                90.16706848144531
+            ],
+            "ypr": [
+                179.9999542236328,
+                89.97201538085938,
+                179.9999542236328
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                107.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                6175.44384765625,
+                249.8786163330078,
+                7836.8671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_SantasSleigh",
+            "pos": [
+                100.0,
+                1010.0,
+                100.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.009999999776482582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                1665.8284912109376,
+                257.19195556640627,
+                9434.6650390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                4088.687255859375,
+                229.22523498535157,
+                7732.751953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lab_teacher_bench",
+            "pos": [
+                99.21836853027344,
+                997.3406982421875,
+                90.32102966308594
+            ],
+            "ypr": [
+                -179.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lab_bench",
+            "pos": [
+                101.405029296875,
+                997.5122680664063,
+                90.32940673828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.50723266601563,
+                998.3734130859375,
+                90.58628845214844
+            ],
+            "ypr": [
+                5.283726692199707,
+                -89.53520965576172,
+                173.59597778320313
+            ],
+            "scale": 0.9998955726623535,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.51024627685547,
+                998.3729248046875,
+                90.43258666992188
+            ],
+            "ypr": [
+                5.283726692199707,
+                -89.53563690185547,
+                173.59596252441407
+            ],
+            "scale": 0.999895453453064,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                8135.51513671875,
+                241.77613830566407,
+                8443.017578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.51324462890625,
+                998.3720092773438,
+                90.27629089355469
+            ],
+            "ypr": [
+                5.283726692199707,
+                -89.53563690185547,
+                173.59596252441407
+            ],
+            "scale": 0.999895453453064,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.51634979248047,
+                998.3712768554688,
+                90.1192855834961
+            ],
+            "ypr": [
+                5.283726692199707,
+                -89.53563690185547,
+                173.59596252441407
+            ],
+            "scale": 0.999895453453064,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                5934.69970703125,
+                376.1363830566406,
+                4940.3857421875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.38667297363281,
+                998.3734130859375,
+                90.58394622802735
+            ],
+            "ypr": [
+                5.283726692199707,
+                -89.53563690185547,
+                173.59596252441407
+            ],
+            "scale": 0.9998953938484192,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.38968658447266,
+                998.3729248046875,
+                90.43024444580078
+            ],
+            "ypr": [
+                5.283726215362549,
+                -89.53605651855469,
+                173.59596252441407
+            ],
+            "scale": 0.9998953342437744,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.39268493652344,
+                998.3720092773438,
+                90.2739486694336
+            ],
+            "ypr": [
+                5.283726215362549,
+                -89.53605651855469,
+                173.59596252441407
+            ],
+            "scale": 0.9998953342437744,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                99.39579010009766,
+                998.3712768554688,
+                90.116943359375
+            ],
+            "ypr": [
+                5.283726692199707,
+                -89.53563690185547,
+                173.59596252441407
+            ],
+            "scale": 0.999895453453064,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                11558.8701171875,
+                187.6637420654297,
+                9211.81640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.15377807617188
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lab_bench",
+            "pos": [
+                97.15998077392578,
+                997.5122680664063,
+                90.32940673828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.21076202392578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lab_bench",
+            "pos": [
+                103.10346221923828,
+                997.5122680664063,
+                90.32940673828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.27234649658203
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [
+                100.13368225097656,
+                998.2490844726563,
+                90.53233337402344
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.009999999776482582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.3357162475586
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.39891815185547
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.46096801757813
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.52820587158203
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WeaponCleaningKit",
+            "pos": [
+                96.4899673461914,
+                998.39599609375,
+                90.09443664550781
+            ],
+            "ypr": [
+                -89.99998474121094,
+                89.96572875976563,
+                179.9999542236328
+            ],
+            "scale": 0.9999979734420776,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                99.25708770751953,
+                998.4186401367188,
+                90.59391784667969
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WeaponCleaningKit",
+            "pos": [
+                96.4899673461914,
+                998.39599609375,
+                90.24934387207031
+            ],
+            "ypr": [
+                -89.99998474121094,
+                89.96572875976563,
+                179.99993896484376
+            ],
+            "scale": 0.9999978542327881,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WeaponCleaningKit",
+            "pos": [
+                96.4899673461914,
+                998.39599609375,
+                90.40591430664063
+            ],
+            "ypr": [
+                -89.99998474121094,
+                89.96043395996094,
+                179.9999237060547
+            ],
+            "scale": 0.9999978542327881,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WeaponCleaningKit",
+            "pos": [
+                96.4899673461914,
+                998.39599609375,
+                90.5576400756836
+            ],
+            "ypr": [
+                -89.99998474121094,
+                89.95575714111328,
+                179.99990844726563
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                833.2964477539063,
+                275.497314453125,
+                5272.71435546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LargeGasCanister",
+            "pos": [
+                96.98995971679688,
+                998.5543212890625,
+                90.5619125366211
+            ],
+            "ypr": [
+                0.0,
+                4.0711111239967459e-13,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LargeGasCanister",
+            "pos": [
+                96.98995971679688,
+                998.5543212890625,
+                90.4051513671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LargeGasCanister",
+            "pos": [
+                96.98995971679688,
+                998.5543212890625,
+                90.2494888305664
+            ],
+            "ypr": [
+                0.0,
+                4.071111666097832e-13,
+                0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                7716.341796875,
+                246.51580810546876,
+                6102.865234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LargeGasCanister",
+            "pos": [
+                96.98995971679688,
+                998.5543212890625,
+                90.09441375732422
+            ],
+            "ypr": [
+                0.0,
+                4.071112208198918e-13,
+                0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                4732.41796875,
+                316.4815368652344,
+                6237.06884765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flag_White",
+            "pos": [
+                103.7393798828125,
+                998.3623046875,
+                90.15606689453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flag_White",
+            "pos": [
+                103.7393798828125,
+                998.3623046875,
+                90.51173400878906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DuctTape",
+            "pos": [
+                97.85006713867188,
+                998.3854370117188,
+                90.57042694091797
+            ],
+            "ypr": [
+                -180.0,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flag_White",
+            "pos": [
+                103.31886291503906,
+                998.3623046875,
+                90.15606689453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flag_White",
+            "pos": [
+                103.31886291503906,
+                998.3623046875,
+                90.51173400878906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DuctTape",
+            "pos": [
+                97.85006713867188,
+                998.3854370117188,
+                90.41386413574219
+            ],
+            "ypr": [
+                179.99998474121095,
+                89.97201538085938,
+                179.99998474121095
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                99.1458740234375,
+                998.39892578125,
+                90.17271423339844
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flag_White",
+            "pos": [
+                102.8958511352539,
+                998.3623046875,
+                90.15606689453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flag_White",
+            "pos": [
+                102.8958511352539,
+                998.3623046875,
+                90.51173400878906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DuctTape",
+            "pos": [
+                97.85006713867188,
+                998.3854370117188,
+                90.08189392089844
+            ],
+            "ypr": [
+                179.9999542236328,
+                89.97201538085938,
+                179.9999542236328
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                99.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                99.54368591308594,
+                997.3870239257813,
+                101.47776794433594
+            ],
+            "ypr": [
+                -89.99998474121094,
+                89.8796615600586,
+                -179.99989318847657
+            ],
+            "scale": 120.00001525878906,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                4958.75244140625,
+                311.2491149902344,
+                7288.26513671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.25386047363281,
+                998.3634643554688,
+                90.58203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Large_4",
+            "pos": [
+                109.0,
+                997.471923828125,
+                93.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                11577.763671875,
+                316.1226806640625,
+                4339.25732421875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                6224.83251953125,
+                183.43382263183595,
+                11082.2265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.56790924072266,
+                998.3634643554688,
+                90.58203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                10683.5078125,
+                197.49440002441407,
+                10709.94921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.56790924072266,
+                998.3634643554688,
+                90.4499740600586
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                9881.306640625,
+                219.1063232421875,
+                8207.4921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                8999.7724609375,
+                348.78643798828127,
+                4243.51708984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.56790924072266,
+                998.3634643554688,
+                90.31940460205078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.56790924072266,
+                998.3634643554688,
+                90.18849182128906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.56790924072266,
+                998.3634643554688,
+                90.05408477783203
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.41207885742188,
+                998.3634643554688,
+                90.58203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.41207885742188,
+                998.3634643554688,
+                90.4499740600586
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.41207885742188,
+                998.3634643554688,
+                90.31940460205078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.41207885742188,
+                998.3634643554688,
+                90.18849182128906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.41207885742188,
+                998.3634643554688,
+                90.05408477783203
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                99.1458740234375,
+                998.39892578125,
+                90.24850463867188
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                99.1458740234375,
+                998.39892578125,
+                90.3258056640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                99.1458740234375,
+                998.39892578125,
+                90.40159606933594
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                99.1458740234375,
+                998.39892578125,
+                90.48252868652344
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                99.1458740234375,
+                998.39892578125,
+                90.55831909179688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.25386047363281,
+                998.3634643554688,
+                90.4499740600586
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.25386047363281,
+                998.3634643554688,
+                90.31940460205078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.25386047363281,
+                998.3634643554688,
+                90.18849182128906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.25386047363281,
+                998.3634643554688,
+                90.05408477783203
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.09803009033203,
+                998.3634643554688,
+                90.58203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.09803009033203,
+                998.3634643554688,
+                90.4499740600586
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.09803009033203,
+                998.3634643554688,
+                90.31940460205078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.09803009033203,
+                998.3634643554688,
+                90.18849182128906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                102.09803009033203,
+                998.3634643554688,
+                90.05408477783203
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                5284.455078125,
+                361.4131774902344,
+                5362.17236328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand2",
+            "pos": [
+                3111.531005859375,
+                283.8523864746094,
+                6516.53564453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Green",
+            "pos": [
+                99.77786254882813,
+                998.36865234375,
+                90.45633697509766
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_2",
+            "pos": [
+                3111.523193359375,
+                284.31109619140627,
+                6515.9599609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

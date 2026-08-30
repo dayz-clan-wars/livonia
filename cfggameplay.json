@@ -49,7 +49,10 @@
 	},
 	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": [],
+		"objectSpawnersArr": [
+			"./custom/flag-supplies.json",
+			"./custom/teleports.json"
+		],
 		"environmentMinTemps": [
 			-7,
 			-7.4,
@@ -84,6 +87,40 @@
 			1.33,
 			1.66,
 			2.0
+		],
+		"playerRestrictedAreaFiles": [
+			"./custom/pra-teleport-hub.json",
+			"./custom/pra-teleport-adamow.json",
+			"./custom/pra-teleport-bielawa.json",
+			"./custom/pra-teleport-borek.json",
+			"./custom/pra-teleport-brena.json",
+			"./custom/pra-teleport-dolnik.json",
+			"./custom/pra-teleport-drewniki.json",
+			"./custom/pra-teleport-gieraltow.json",
+			"./custom/pra-teleport-gliniska.json",
+			"./custom/pra-teleport-grabin.json",
+			"./custom/pra-teleport-huta.json",
+			"./custom/pra-teleport-karlin.json",
+			"./custom/pra-teleport-kolembrody.json",
+			"./custom/pra-teleport-kulno.json",
+			"./custom/pra-teleport-lembork.json",
+			"./custom/pra-teleport-lipina.json",
+			"./custom/pra-teleport-lukow.json",
+			"./custom/pra-teleport-muratyn.json",
+			"./custom/pra-teleport-nadbor.json",
+			"./custom/pra-teleport-nidek.json",
+			"./custom/pra-teleport-olszanka.json",
+			"./custom/pra-teleport-polana.json",
+			"./custom/pra-teleport-radacz.json",
+			"./custom/pra-teleport-radunin.json",
+			"./custom/pra-teleport-roztoka.json",
+			"./custom/pra-teleport-sitnik.json",
+			"./custom/pra-teleport-sobotka.json",
+			"./custom/pra-teleport-tarnow.json",
+			"./custom/pra-teleport-topolin.json",
+			"./custom/pra-teleport-wrzeszcz.json",
+			"./custom/pra-teleport-zalesie.json",
+			"./custom/pra-teleport-zapadlisko.json"
 		]
 	},
 	"BaseBuildingData": {

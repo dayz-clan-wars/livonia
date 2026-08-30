@@ -19,7 +19,7 @@
             <max_steepness>45</max_steepness>
         </generator_params>
         <group_params>
-            <enablegroups>true</enablegroups>
+            <enablegroups>false</enablegroups>
             <groups_as_regular>true</groups_as_regular>
             <lifetime>120</lifetime>
             <counter>2</counter>

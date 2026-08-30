@@ -273,10 +273,10 @@
 						<point pos="4.395263 1.109497 -2.981445" range="0.203125" height="0.507813" flags="16" />
 				</container>
 				<dispatch dechance="1.000000">
-						<proxy type="Grenade_ChemGas" pos="-3.30603 0.26218 -1.340943" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
-						<proxy type="Grenade_ChemGas" pos="-3.25939 0.26218 -1.119508" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
-						<proxy type="Grenade_ChemGas" pos="4.810425 2.198035 0.923217" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
-						<proxy type="Grenade_ChemGas" pos="4.863892 2.198035 1.143250" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="M67Grenade" pos="-3.30603 0.26218 -1.340943" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="M67Grenade" pos="-3.25939 0.26218 -1.119508" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="M67Grenade" pos="4.810425 2.198035 0.923217" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="M67Grenade" pos="4.863892 2.198035 1.143250" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
 				</dispatch>
 		</group>
 		<group name="Land_Underground_Storage_Ammo" lootmax="10">
@@ -448,7 +448,7 @@
 						<point pos="-3.345702 1.023865 3.762024" range="0.341614" height="0.854034" flags="16" />
 				</container>
 				<dispatch dechance="1.000000">
-						<proxy type="Ammo_40mm_ChemGas" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+						<proxy type="M67Grenade" pos="-4.303712 0.907471 3.644958" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 				</dispatch>
 		</group>
 		<group name="Land_Underground_WaterMaintenance" lootmax="10">
@@ -548,10 +548,10 @@
 						<proxy type="SCARH" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000" dechance="1.000000" />
 				</dispatch>
 				<dispatch dechance="1.000000">
-						<proxy type="Grenade_ChemGas" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="Grenade_ChemGas" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="Grenade_ChemGas" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
-						<proxy type="Grenade_ChemGas" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="M67Grenade" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="M67Grenade" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="M67Grenade" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
+						<proxy type="M67Grenade" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
 				</dispatch>
 		</group>
 		<group name="Land_Shed_M4" lootmax="3">

@@ -736,7 +736,6 @@
 		<pos x="769.045" z="6739.631" a="0" y="212.431" group="Traffic_Zalesie"/>
 	</event>
 
-    <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />

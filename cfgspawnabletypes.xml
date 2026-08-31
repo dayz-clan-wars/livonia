@@ -1491,7 +1491,7 @@
 		</attachments>
 	</type>
 	<type name="M14">
-		<attachments preset="M4_Optics" />
+		<attachments preset="M4_Sniper_Optics" />
 		<attachments chance="1.00">
 			<item name="Mag_M14_20Rnd" chance="0.50" />
 			<item name="Mag_M14_10Rnd" chance="0.50" />

@@ -977,13 +977,13 @@
         </children>
     </event>
     <event name="VehicleBoat">
-        <nominal>15</nominal>
-        <min>15</min>
-        <max>15</max>
+        <nominal>12</nominal>
+        <min>12</min>
+        <max>12</max>
         <lifetime>6000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>fixed</position>
@@ -1002,16 +1002,16 @@
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="1" />
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="CivilianSedan" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="CivilianSedan_Black" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="CivilianSedan_Wine" />
         </children>
     </event>
     <event name="VehicleHatchback02">
@@ -1021,16 +1021,16 @@
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="1" />
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Hatchback_02" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Hatchback_02_Black" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Hatchback_02_Blue" />
         </children>
     </event>
     <event name="VehicleOffroad02">
@@ -1040,7 +1040,7 @@
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="1" />
         <position>fixed</position>
@@ -1057,16 +1057,16 @@
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="1" />
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="OffroadHatchback" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="OffroadHatchback_Blue" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="OffroadHatchback_White" />
         </children>
     </event>
     <event name="VehicleSedan02">
@@ -1076,16 +1076,16 @@
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="1" />
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Sedan_02" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Sedan_02_Grey" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Sedan_02_Red" />
         </children>
     </event>
     <event name="VehicleTruck01">
@@ -1095,16 +1095,16 @@
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
+        <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="1" />
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue" />
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Truck_01_Covered" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Truck_01_Covered_Blue" />
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Truck_01_Covered_Orange" />
         </children>
     </event>
 </events>

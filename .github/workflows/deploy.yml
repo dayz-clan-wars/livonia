@@ -1,0 +1,54 @@
+name: FTP Deploy (on release)
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # lets the action compare history for accurate diffs
+
+      - name: Deploy changed files via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          port: 21
+
+          # Only changed files are uploaded by default; this state file
+          # on the server tracks last deploy. Keep it!
+          state-name: .ftp-deploy-sync-state.json
+
+          # Where to upload from (repo root) and to (adjust as needed)
+          local-dir: ./
+          server-dir: ${{ secrets.FTP_DIRECTORY }}
+
+          # DO NOT wipe the server (keeps incremental behavior)
+          dangerous-clean-slate: false
+
+          # Robust excludes (handles top-level and nested folders)
+          exclude: |
+            .git/**
+            **/.git/**
+            .github/**
+            **/.github/**
+            .claude/**
+            **/.claude/**
+            .superpowers/**
+            **/.superpowers/**
+            docs/**
+            node_modules/**
+            **/node_modules/**
+            vendor/**
+            **/vendor/**
+            **/*.md
+            .gitignore
+            .gitattributes

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+	<type name="PunchedCard">
+		<damage min="0.8" max="0.8" />
+	</type>
 	<type name="AirborneMask">
 		<attachments chance="0.2">
 			<item name="GasMask_Filter" />
@@ -1615,8 +1618,16 @@
 		<hoarder />
 	</type>
 	<type name="Mich2001Helmet">
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>

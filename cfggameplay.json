@@ -50,7 +50,6 @@
 	"WorldsData": {
 		"lightingConfig": 0,
 		"objectSpawnersArr": [
-			"./custom/flag-supplies.json",
 			"./custom/teleports.json"
 		],
 		"environmentMinTemps": [

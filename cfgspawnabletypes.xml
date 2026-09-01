@@ -1617,6 +1617,14 @@
 	<type name="MediumTent_Orange">
 		<hoarder />
 	</type>
+	<type name="ImprovisedExplosive">
+		<attachments chance="1.00">
+			<item name="Plastic_Explosive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Plastic_Explosive" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="Mich2001Helmet">
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />

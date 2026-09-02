@@ -193,7 +193,7 @@
         <usage name="Military"/>
     </type>
     <type name="AK_Bayonet">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -322,10 +322,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_Suppressor">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>9800</lifetime>
         <restock>1800</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12250,10 +12250,10 @@
         <category name="weapons"/>
     </type>
     <type name="M4_Suppressor">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12368,7 +12368,7 @@
         <value name="Unique"/>
     </type>
     <type name="M9A1_Bayonet">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -12448,7 +12448,7 @@
         <value name="Tier2"/>
     </type>
     <type name="MP5_Compensator">
-        <nominal>16</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -14029,7 +14029,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mosin_Bayonet">
-        <nominal>48</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>19</min>
@@ -14044,7 +14044,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mosin_Compensator">
-        <nominal>44</nominal>
+        <nominal>22</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>17</min>
@@ -15595,7 +15595,7 @@
         <value name="Tier3"/>
     </type>
     <type name="PistolSuppressor">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -19550,7 +19550,7 @@
         <category name="clothes"/>
     </type>
     <type name="TLRLight">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>60</restock>
         <min>10</min>
@@ -20799,7 +20799,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="UniversalLight">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>60</restock>
         <min>8</min>

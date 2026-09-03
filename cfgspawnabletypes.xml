@@ -269,15 +269,20 @@
 		<attachments preset="Battery" />
 	</type>
 	<type name="Aug">
-		<attachments preset="M4_CQB_Optics" />
-		<attachments preset="M4_Suppressors" />
 		<attachments chance="1.00">
-			<item name="Mag_Aug_30Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="UniversalLight" chance="1.00" />
+			<item name="ReflexOptic" chance="0.2" />
+			<item name="ACOGOptic" chance="0.2" />
+			<item name="ACOGOptic_6x" chance="0.2" />
+			<item name="M68Optic" chance="0.2" />
+			<item name="M4_T3NRDSOptic" chance="0.2" />
 		</attachments>
 		<attachments preset="Battery" />
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="AugShort">
 		<attachments preset="M4_CQB_Optics" />
@@ -1508,26 +1513,56 @@
 	<type name="M4A1">
 		<attachments preset="M4_Buttstocks" />
 		<attachments preset="M4_Handguards" />
-		<attachments preset="M4_CQB_Optics" />
-		<attachments preset="M4_Suppressors" />
-		<attachments preset="M4_Magazines" />
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="0.2" />
+			<item name="ACOGOptic" chance="0.2" />
+			<item name="ACOGOptic_6x" chance="0.2" />
+			<item name="M68Optic" chance="0.2" />
+			<item name="M4_T3NRDSOptic" chance="0.2" />
+		</attachments>
 		<attachments preset="Battery" />
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="M4A1_Black">
 		<attachments preset="M4_Buttstocks" />
 		<attachments preset="M4_Handguards" />
-		<attachments preset="M4_CQB_Optics" />
-		<attachments preset="M4_Suppressors" />
-		<attachments preset="M4_Magazines" />
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="0.2" />
+			<item name="ACOGOptic" chance="0.2" />
+			<item name="ACOGOptic_6x" chance="0.2" />
+			<item name="M68Optic" chance="0.2" />
+			<item name="M4_T3NRDSOptic" chance="0.2" />
+		</attachments>
 		<attachments preset="Battery" />
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="M4A1_Green">
 		<attachments preset="M4_Buttstocks" />
 		<attachments preset="M4_Handguards" />
-		<attachments preset="M4_CQB_Optics" />
-		<attachments preset="M4_Suppressors" />
-		<attachments preset="M4_Magazines" />
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="0.2" />
+			<item name="ACOGOptic" chance="0.2" />
+			<item name="ACOGOptic_6x" chance="0.2" />
+			<item name="M68Optic" chance="0.2" />
+			<item name="M4_T3NRDSOptic" chance="0.2" />
+		</attachments>
 		<attachments preset="Battery" />
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="M65Jacket_Black">
 		<cargo preset="foodArmy" />

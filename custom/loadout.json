@@ -1798,6 +1798,16 @@
                         "quantityMax": 1.0
                     },
                     "quickBarSlot": 2
+                },
+                {
+                    "itemType": "ShippingContainerKeys_Red",
+                    "attributes": {
+                        "healthMin": 0.2,
+                        "healthMax": 0.2,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
                 }
             ]
         }

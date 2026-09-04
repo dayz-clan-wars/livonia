@@ -810,7 +810,7 @@
         <children />
     </event>
     <event name="StaticHeliCrash">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <min>5</min>
         <max>5</max>
         <lifetime>2100</lifetime>
@@ -827,7 +827,7 @@
         </children>
     </event>
     <event name="StaticMilitaryConvoy">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <min>5</min>
         <max>5</max>
         <lifetime>1800</lifetime>
@@ -871,7 +871,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0" />
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children />
     </event>
     <event name="StaticSantaCrash">
@@ -1034,9 +1034,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>15</nominal>
-        <min>15</min>
-        <max>15</max>
+        <nominal>10</nominal>
+        <min>10</min>
+        <max>10</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1089,9 +1089,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>15</nominal>
-        <min>15</min>
-        <max>15</max>
+        <nominal>20</nominal>
+        <min>20</min>
+        <max>20</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1102,9 +1102,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="7" min="3" type="Truck_01_Covered" />
-            <child lootmax="0" lootmin="0" max="7" min="3" type="Truck_01_Covered_Blue" />
-            <child lootmax="0" lootmin="0" max="7" min="3" type="Truck_01_Covered_Orange" />
+            <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered" />
+            <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered_Blue" />
+            <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered_Orange" />
         </children>
     </event>
 </events>

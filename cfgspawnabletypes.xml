@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+	<type name="BDUJacket">
+		<cargo chance="1.00">
+			<item name="BDUPants" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="JumpsuitJacket_Blue">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Blue" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="JumpsuitJacket_Gray">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Grey" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="JumpsuitJacket_Green">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Green" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="JumpsuitJacket_Red">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Red" chance="1.00" />
+		</cargo>
+	</type>
 	<type name="PunchedCard">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="ShippingContainerKeys_Red">
 		<damage min="0.8" max="0.8" />
 	</type>
 	<type name="AirborneMask">
@@ -1166,18 +1194,30 @@
 	<type name="GorkaEJacket_Autumn">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="GorkaPants_Autumn" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="GorkaEJacket_Flat">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="GorkaPants_Flat" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="GorkaEJacket_PautRev">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="GorkaPants_PautRev" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="GorkaEJacket_Summer">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="GorkaPants_Summer" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="GorkaEJacket_Winter">
 		<cargo preset="foodArmy" />
@@ -1378,15 +1418,27 @@
 	</type>
 	<type name="HikingJacket_Black">
 		<cargo preset="mixVillage" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="HikingJacket_Blue">
 		<cargo preset="mixVillage" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Blue" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="HikingJacket_Green">
 		<cargo preset="mixVillage" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="HikingJacket_Red">
 		<cargo preset="mixVillage" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="HipPack_Black">
 		<cargo chance="0.6">
@@ -1463,9 +1515,15 @@
 	</type>
 	<type name="HuntingJacket_Spring">
 		<cargo preset="mixHunter" />
+		<cargo chance="1.00">
+			<item name="HunterPants_Spring" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="HuntingJacket_Summer">
 		<cargo preset="mixHunter" />
+		<cargo chance="1.00">
+			<item name="HunterPants_Summer" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="HuntingJacket_Winter">
 		<cargo preset="mixHunter" />
@@ -1567,18 +1625,30 @@
 	<type name="M65Jacket_Black">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="M65Jacket_Khaki">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="M65Jacket_Olive">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="M65Jacket_Tan">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="MakarovIJ70">
 		<attachments chance="1.00">
@@ -2604,15 +2674,27 @@
 	</type>
 	<type name="TacticalShirt_Black">
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="TacticalShirt_Grey">
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Grey" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="TacticalShirt_Olive">
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="TacticalShirt_Tan">
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="TaloonBag_Blue">
 		<cargo preset="foodVillage" />
@@ -3445,6 +3527,9 @@
 	<type name="TTsKOJacket_Camo">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="TTSKOPants" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="TTSKOPants">
 		<cargo preset="mixArmy" />
@@ -3476,10 +3561,16 @@
 		<cargo chance="0.2">
 			<item name="Mag_SCARH_20Rnd_Black" chance="1.0" />
 		</cargo>
+		<cargo chance="1.00">
+			<item name="USMCPants_Desert" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="USMCJacket_Woodland">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="USMCPants_Woodland" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="USMCPants_Desert">
 		<cargo preset="mixArmy" />

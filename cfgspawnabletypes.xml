@@ -1730,6 +1730,14 @@
 			<item name="Plastic_Explosive" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="NVGHeadstrap">
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="Mich2001Helmet">
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />

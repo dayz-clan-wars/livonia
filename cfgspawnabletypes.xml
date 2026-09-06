@@ -4628,7 +4628,8 @@
 		</attachments>
 		<cargo preset="foodArmy" />
 		<cargo chance="0.6">
-			<item name="PunchedCard" chance="1.0" />
+			<item name="PunchedCard" chance="0.6" />
+			<item name="ShippingContainerKeys_Red" chance="0.4" />
 		</cargo>
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">

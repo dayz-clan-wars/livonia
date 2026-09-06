@@ -18940,6 +18940,9 @@
 						<point pos="2.254426 1.926121 0.736490" range="0.100000" height="0.250000" />
 						<point pos="2.829871 1.939937 0.718103" range="0.174805" height="0.437012" />
 				</container>
+				<dispatch dechance="1.00">
+						<proxy type="Wreck_UH1Y" pos="0.000000 -10.000000 0.000000" rpy="0.000000 0.000000 0.000000" dechance="1.00" />
+				</dispatch>
 		</group>
 		<group name="StaticObj_Wreck_Stryker_DE" lootmax="8">
 				<usage name="Military" />

@@ -2906,6 +2906,15 @@
 			<item name="Pliers" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
+			<item name="HandSaw" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Hacksaw" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Flag_White" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
 			<item name="NailBox" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
@@ -3160,6 +3169,15 @@
 			<item name="Pliers" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
+			<item name="HandSaw" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Hacksaw" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Flag_White" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
 			<item name="NailBox" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
@@ -3412,6 +3430,15 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Pliers" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HandSaw" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Hacksaw" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Flag_White" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="NailBox" chance="1.00" />

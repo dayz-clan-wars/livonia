@@ -812,7 +812,7 @@
     <event name="StaticHeliCrash">
         <nominal>10</nominal>
         <min>5</min>
-        <max>5</max>
+        <max>10</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -824,13 +824,13 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_Mi8_Crashed" />
+            <child lootmax="15" lootmin="15" max="10" min="1" type="Wreck_Mi8_Crashed" />
         </children>
     </event>
     <event name="StaticMilitaryConvoy">
         <nominal>10</nominal>
         <min>5</min>
-        <max>5</max>
+        <max>10</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -896,7 +896,7 @@
     <event name="StaticTrain">
         <nominal>5</nominal>
         <min>1</min>
-        <max>0</max>
+        <max>10</max>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>

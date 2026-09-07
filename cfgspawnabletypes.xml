@@ -26,6 +26,11 @@
 			<item name="JumpsuitPants_Red" chance="1.00" />
 		</cargo>
 	</type>
+	<type name="NavyUniformJacket">
+		<cargo chance="1.00">
+			<item name="NavyUniformPants" chance="1.00" />
+		</cargo>
+	</type>
 	<type name="PunchedCard">
 		<damage min="0.8" max="0.8" />
 	</type>
@@ -1222,6 +1227,9 @@
 	<type name="GorkaEJacket_Winter">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="GorkaPants_Winter" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="GorkaPants_Autumn">
 		<cargo preset="mixArmy" />
@@ -2120,6 +2128,9 @@
 	<type name="OMKJacket_Navy">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
+		<cargo chance="1.00">
+			<item name="OMKPants_Navy" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="OMKPants_Navy">
 		<cargo preset="mixArmy" />
@@ -3616,12 +3627,21 @@
 	</type>
 	<type name="WinterMilitaryCoat_Brown">
 		<cargo preset="mixArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="WinterMilitaryCoat_DarkGrey">
 		<cargo preset="mixArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="WinterMilitaryCoat_Grey">
 		<cargo preset="mixArmy" />
+		<cargo chance="1.00">
+			<item name="CargoPants_Grey" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="WomanSuit_Beige">
 		<cargo chance="0.01">

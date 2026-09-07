@@ -2172,16 +2172,18 @@
         <value name="Tier3"/>
     </type>
     <type name="AssaultBag_Winter">
-        <nominal>0</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="AthleticShoes_Black">
         <nominal>3</nominal>
@@ -2269,10 +2271,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Attack2Bag_Ttsko">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2281,10 +2283,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Attack2Bag_Yeger">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2699,15 +2701,16 @@
         <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Navy">
-        <nominal>0</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_UN">
         <nominal>8</nominal>
@@ -2722,15 +2725,16 @@
         <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Winter">
-        <nominal>0</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/>
         <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Woodland">
@@ -5840,16 +5844,17 @@
         <value name="Tier3"/>
     </type>
     <type name="CoyoteBag_Winter">
-        <nominal>0</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
     </type>
     <type name="CrabCan">
         <nominal>0</nominal>
@@ -8539,10 +8544,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_Winter">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14470,15 +14475,16 @@
         <category name="tools"/>
     </type>
     <type name="NavyUniformJacket">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/>
     </type>
     <type name="NavyUniformPants">
         <nominal>0</nominal>
@@ -14590,15 +14596,16 @@
         <usage name="Military"/>
     </type>
     <type name="OMKJacket_Navy">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/>
     </type>
     <type name="OMKPants_Navy">
         <nominal>0</nominal>
@@ -20107,16 +20114,17 @@
         <usage name="Military"/>
     </type>
     <type name="TortillaBag_Winter">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
     </type>
     <type name="TrackSuitJacket_Black">
         <nominal>0</nominal>
@@ -20702,10 +20710,10 @@
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Winter">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -21173,10 +21181,10 @@
         <usage name="Military"/>
     </type>
     <type name="WinterMilitaryCoat_Brown">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -21185,10 +21193,10 @@
         <usage name="Military"/>
     </type>
     <type name="WinterMilitaryCoat_DarkGrey">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -21196,11 +21204,11 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
-    <type name="WinterMilitaryCoat_Greay">
-        <nominal>0</nominal>
+    <type name="WinterMilitaryCoat_Grey">
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>

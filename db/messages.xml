@@ -44,6 +44,10 @@ Example messages:
     </message>
     -->
     <message>
+        <repeat>5</repeat>
+        <text>Get the Clan Wars app to manage your clan and track stats! https://dayzclanwars.com</text>
+    </message>
+    <message>
         <deadline>120</deadline>
         <shutdown>1</shutdown>
         <text>Server will reboot in #tmin minutes.</text>

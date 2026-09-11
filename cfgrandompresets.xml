@@ -809,8 +809,7 @@
 		</attachments>
 		<!-- HUNTING RIFLE ATTACHMENTS -->
 		<attachments chance="1.0" name="Hunting_Optics">
-			<item name="HuntingOptic" chance="0.5" />
-			<item name="SportingOptic" chance="0.5" />
+			<item name="HuntingOptic" chance="1.0" />
 		</attachments>
 		<!-- FAL ATTACHMENTS -->
 		<attachments chance="1.0" name="FAL_Buttstocks">

@@ -6,6 +6,21 @@
 			<item name="BDUPants" chance="1.00" />
 		</cargo>
 	</type>
+	<type name="Flashlight">
+		<attachments preset="Battery" />
+	</type>
+	<type name="FNP45_MRDSOptic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="Headtorch_Black">
+		<attachments preset="Battery" />
+	</type>
+	<type name="Headtorch_Grey">
+		<attachments preset="Battery" />
+	</type>
+	<type name="HoloOptic">
+		<attachments preset="Battery" />
+	</type>
 	<type name="JumpsuitJacket_Blue">
 		<cargo chance="1.00">
 			<item name="JumpsuitPants_Blue" chance="1.00" />
@@ -26,13 +41,49 @@
 			<item name="JumpsuitPants_Red" chance="1.00" />
 		</cargo>
 	</type>
+	<type name="KazuarOptic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="KobraOptic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="M4_T3NRDSOptic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="M68Optic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="Megaphone">
+		<attachments preset="Battery" />
+	</type>
 	<type name="NavyUniformJacket">
 		<cargo chance="1.00">
 			<item name="NavyUniformPants" chance="1.00" />
 		</cargo>
 	</type>
+	<type name="NVGoggles">
+		<attachments preset="Battery" />
+	</type>
+	<type name="PistolOptic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="PSO11Optic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="PSO1Optic">
+		<attachments preset="Battery" />
+	</type>
+	<type name="PSO6Optic">
+		<attachments preset="Battery" />
+	</type>
 	<type name="PunchedCard">
 		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="Rangefinder">
+		<attachments preset="Battery" />
+	</type>
+	<type name="ReflexOptic">
+		<attachments preset="Battery" />
 	</type>
 	<type name="ShippingContainerKeys_Red">
 		<damage min="0.8" max="0.8" />
@@ -325,6 +376,12 @@
 		<attachments preset="Battery" />
 	</type>
 	<type name="B95">
+		<attachments preset="Hunting_Optics" />
+	</type>
+	<type name="B95_Black">
+		<attachments preset="Hunting_Optics" />
+	</type>
+	<type name="B95_Green">
 		<attachments preset="Hunting_Optics" />
 	</type>
 	<type name="Barrel_Blue">
@@ -761,6 +818,24 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="CZ527">
+		<attachments preset="Hunting_Optics" />
+		<attachments chance="1.00">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CZ527_Black">
+		<attachments preset="Hunting_Optics" />
+		<attachments chance="1.00">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CZ527_Green">
+		<attachments preset="Hunting_Optics" />
+		<attachments chance="1.00">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CZ527_Camo">
 		<attachments preset="Hunting_Optics" />
 		<attachments chance="1.00">
 			<item name="Mag_CZ527_5rnd" chance="1.00" />
@@ -1252,9 +1327,7 @@
 		</attachments>
 	</type>
 	<type name="GPSReceiver">
-		<attachments chance="0.30">
-			<item name="Battery9V" chance="1.00" />
-		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="Hatchback_02">
 		<attachments chance="1.00">
@@ -1558,11 +1631,13 @@
 		<attachments chance="1.00">
 			<item name="PistolOptic" chance="1.00" />
 		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="Longhorn">
 		<attachments chance="1.00">
 			<item name="PistolOptic" chance="1.00" />
 		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="M14">
 		<attachments preset="M4_Sniper_Optics" />
@@ -1890,6 +1965,7 @@
 		<attachments chance="0.30">
 			<item name="FNP45_MRDSOptic" chance="0.30" />
 		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="Mp133Shotgun">
 		<attachments chance="0.30">
@@ -2174,9 +2250,7 @@
 		<hoarder />
 	</type>
 	<type name="PersonalRadio">
-		<attachments chance="0.30">
-			<item name="Battery9V" chance="1.00" />
-		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="PilotJacket_Black">
 		<cargo preset="mixVillage" />
@@ -2610,6 +2684,12 @@
 	<type name="SKS">
 		<attachments preset="Mosin_Optics" />
 	</type>
+	<type name="SKS_Black">
+		<attachments preset="Mosin_Optics" />
+	</type>
+	<type name="SKS_Green">
+		<attachments preset="Mosin_Optics" />
+	</type>
 	<type name="SlacksPants_Beige">
 		<cargo preset="mixVillage" />
 	</type>
@@ -2658,6 +2738,9 @@
 			<item name="Mag_SSG82_5rnd" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="StarlightOptic">
+		<attachments preset="Battery" />
+	</type>
 	<type name="SV98">
 		<attachments preset="M4_CQB_Optics" />
 		<attachments chance="1.00">
@@ -2671,6 +2754,7 @@
 		<attachments chance="1.00">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="SVD_Wooden">
 		<attachments preset="AK_Sniper_Optics" />
@@ -2678,6 +2762,7 @@
 		<attachments chance="1.00">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="Sweater_Blue">
 		<cargo preset="mixVillage" />
@@ -2730,6 +2815,9 @@
 	<type name="TaloonBag_Violet">
 		<cargo preset="foodVillage" />
 		<cargo preset="mixVillage" />
+	</type>
+	<type name="TLRLight">
+		<attachments preset="Battery" />
 	</type>
 	<type name="TortillaBag">
 		<cargo preset="foodArmy" />
@@ -3596,6 +3684,9 @@
 	<type name="UndergroundStash">
 		<hoarder />
 	</type>
+	<type name="UniversalLight">
+		<attachments preset="Battery" />
+	</type>
 	<type name="USMCJacket_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -3648,8 +3739,15 @@
 			<item name="Mag_VAL_20Rnd" chance="0.35" />
 			<item name="Mag_Vikhr_30Rnd" chance="0.15" />
 		</attachments>
+		<attachments preset="Battery" />
 	</type>
 	<type name="Winchester70">
+		<attachments preset="Hunting_Optics" />
+	</type>
+	<type name="Winchester70_Black">
+		<attachments preset="Hunting_Optics" />
+	</type>
+	<type name="Winchester70_Green">
 		<attachments preset="Hunting_Optics" />
 	</type>
 	<type name="WinterMilitaryCoat_Brown">

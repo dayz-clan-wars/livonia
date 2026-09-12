@@ -2298,9 +2298,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-        <usage name="Underground"/>
-        <usage name="ContaminatedArea"/>
-        <value name="Tier3"/>
+        <usage name="Military"/>
     </type>
     <type name="AugShort">
         <nominal>17</nominal>
@@ -6980,10 +6978,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
         <usage name="Military"/>
-        <usage name="Underground"/>
-        <value name="Tier3"/>
     </type>
     <type name="FAMAS">
         <nominal>17</nominal>
@@ -12090,9 +12085,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-        <value name="Tier3"/>
         <usage name="Military"/>
-        <usage name="Underground"/>
     </type>
     <type name="M16A2">
         <nominal>24</nominal>
@@ -13992,10 +13985,10 @@
         <usage name="Medic"/>
     </type>
     <type name="MorseCodeLeaflet_Blood">
-        <nominal>12</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14004,10 +13997,10 @@
         <usage name="Military"/>
     </type>
     <type name="MorseCodeLeaflet_Coffee">
-        <nominal>12</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14016,10 +14009,10 @@
         <usage name="Military"/>
     </type>
     <type name="MorseCodeLeaflet_Fire">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>

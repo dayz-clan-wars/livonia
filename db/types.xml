@@ -14227,6 +14227,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Hunting"/>
     </type>
     <type name="MountainBag_Green">
         <nominal>10</nominal>
@@ -14238,6 +14239,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Hunting"/>
     </type>
     <type name="MountainBag_Orange">
         <nominal>10</nominal>
@@ -14249,6 +14251,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Hunting"/>
     </type>
     <type name="MountainBag_Red">
         <nominal>10</nominal>
@@ -14260,6 +14263,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Hunting"/>
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>

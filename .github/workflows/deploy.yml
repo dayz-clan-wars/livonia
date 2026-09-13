@@ -36,6 +36,7 @@ jobs:
 
           # Robust excludes (handles top-level and nested folders)
           exclude: |
+            init.c
             .git/**
             **/.git/**
             .github/**

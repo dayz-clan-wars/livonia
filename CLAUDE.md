@@ -52,20 +52,6 @@ in-game effect, then a before/after table when numbers change (nominal/min,
 usages, values). Close with the Claude Code attribution block. See `v1.6.21` and
 `v1.6.23` for the shape.
 
-### ⚠️ `init.c` is not deployed from here any more
-
-Since the clan-armbands change, **the Clan Wars bot owns `init.c`**. It renders the
-whole file from the clan roster and uploads it to the mission root before every
-scheduled restart, so the per-clan spawn armbands match who is actually in which clan.
-
-`init.c` is therefore in `deploy.yml`'s exclude list, and a Release never ships it.
-The copy in this repo is kept as a **reference for what the bot renders** — editing it
-changes nothing on the server. The template the bot actually uses is
-`apps/bot/src/init-c.ts` in the `clan-wars` repo; change the mission script there.
-
-⚠️ The bot is the only writer. A hand-edit through Nitrado's file manager survives only
-until the next restart slot (at most two hours), then is overwritten.
-
 ### How the deploy works
 
 `SamKirkland/FTP-Deploy-Action` checks out the released tag and FTPs the repo

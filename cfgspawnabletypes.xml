@@ -2742,7 +2742,7 @@
 		<attachments preset="Battery" />
 	</type>
 	<type name="SV98">
-		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="M4_Sniper_Optics" />
 		<attachments chance="1.00">
 			<item name="Mag_SV98_10Rnd" chance="1.00" />
 		</attachments>

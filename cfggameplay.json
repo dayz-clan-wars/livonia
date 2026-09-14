@@ -50,6 +50,8 @@
 	"WorldsData": {
 		"lightingConfig": 0,
 		"objectSpawnersArr": [
+			"./custom/admin-castle-flag-kit.json",
+			"./custom/admin-castle.json",
 			"./custom/bunker-enhancements.json",
 			"./custom/faction-supplies.json",
 			"./custom/teleports.json"

@@ -769,10 +769,22 @@
 		<pos x="769.045" z="6739.631" a="0" y="212.431" group="Traffic_Zalesie"/>
 	</event>
 	<event name="VehicleAdminTruck">
-		<pos x="12744.433" z="70.228" a="0" y="324.2" />
+		<pos x="12744.476" z="45.059" a="0" y="324.5" />
 	</event>
 	<event name="VehicleAdminHummer">
-		<pos x="12776.034" z="43.155" a="0" y="324.2" />
+		<pos x="12764.483" z="43.532" a="0" y="324.5" />
+	</event>
+	<event name="VehicleAdminAda">
+		<pos x="12760.588" z="42.863" a="0" y="324.5" />
+	</event>
+	<event name="VehicleAdminGunter">
+		<pos x="12756.754" z="42.978" a="0" y="324.5" />
+	</event>
+	<event name="VehicleAdminSarka">
+		<pos x="12752.878" z="43.263" a="0" y="324.5" />
+	</event>
+	<event name="VehicleAdminOlga">
+		<pos x="12748.838" z="43.631" a="0" y="324.5" />
 	</event>
 
     <event name="InfectedVillage" />

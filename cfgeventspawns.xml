@@ -768,6 +768,12 @@
 		<pos x="10213.420" z="2185.113" a="0" y="242.528" group="Traffic_Widok"/>
 		<pos x="769.045" z="6739.631" a="0" y="212.431" group="Traffic_Zalesie"/>
 	</event>
+	<event name="VehicleAdminTruck">
+		<pos x="12744.433" z="70.228" a="0" y="324.2" />
+	</event>
+	<event name="VehicleAdminHummer">
+		<pos x="12776.034" z="43.155" a="0" y="324.2" />
+	</event>
 
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />

@@ -12,7 +12,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -24,11 +24,11 @@
                 57.181976318359378
             ],
             "ypr": [
-                -179.99998474121095,
+                -179.99996948242188,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -36,7 +36,7 @@
             "name": "Land_Castle_Gate",
             "pos": [
                 12775.6376953125,
-                327.6420593261719,
+                327.3646545410156,
                 78.06523895263672
             ],
             "ypr": [
@@ -44,7 +44,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -52,7 +52,7 @@
             "name": "Land_Castle_Gate",
             "pos": [
                 12775.6376953125,
-                327.6420593261719,
+                327.3646545410156,
                 67.15666961669922
             ],
             "ypr": [
@@ -60,7 +60,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -68,15 +68,15 @@
             "name": "Land_Castle_Gate",
             "pos": [
                 12775.6376953125,
-                327.6420593261719,
-                56.18377685546875
+                327.3646545410156,
+                56.18378448486328
             ],
             "ypr": [
                 0.0,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -92,22 +92,6 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Castle_Wall1_20",
-            "pos": [
-                12769.841796875,
-                327.31280517578127,
-                38.739646911621097
-            ],
-            "ypr": [
-                -179.99998474121095,
-                0.0,
-                -0.0
-            ],
             "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
@@ -115,7 +99,7 @@
         {
             "name": "Land_Castle_Wall1_20",
             "pos": [
-                12749.759765625,
+                12769.841796875,
                 327.31280517578127,
                 38.739646911621097
             ],
@@ -131,6 +115,22 @@
         {
             "name": "Land_Castle_Wall1_20",
             "pos": [
+                12749.759765625,
+                327.31280517578127,
+                38.739646911621097
+            ],
+            "ypr": [
+                -179.9999542236328,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
                 12740.7412109375,
                 327.31280517578127,
                 47.771522521972659
@@ -140,7 +140,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -156,7 +156,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -172,7 +172,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -188,7 +188,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -204,7 +204,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998807907105,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -220,7 +220,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.649999976158142,
+            "scale": 1.6499998569488526,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -236,7 +236,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -245,22 +245,6 @@
             "pos": [
                 12745.6171875,
                 334.40301513671877,
-                72.13605499267578
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499998569488526,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12742.17578125,
-                334.3900146484375,
                 72.13605499267578
             ],
             "ypr": [
@@ -275,6 +259,22 @@
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
+                12742.17578125,
+                334.3900146484375,
+                72.13605499267578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499996185302735,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
                 12745.6171875,
                 334.40301513671877,
                 62.26405334472656
@@ -284,7 +284,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499993801116944,
+            "scale": 1.6499991416931153,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -300,7 +300,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499992609024048,
+            "scale": 1.6499991416931153,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -316,7 +316,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499998569488526,
+            "scale": 1.649999737739563,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -332,7 +332,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -348,7 +348,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499990224838257,
+            "scale": 1.6499989032745362,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -364,7 +364,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499987840652466,
+            "scale": 1.6499985456466675,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -380,7 +380,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.649999737739563,
+            "scale": 1.6499996185302735,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -389,22 +389,6 @@
             "pos": [
                 12758.890625,
                 334.40301513671877,
-                52.396297454833987
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499981880187989,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12755.44921875,
-                334.3900146484375,
                 52.396297454833987
             ],
             "ypr": [
@@ -419,185 +403,9 @@
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
-                12763.8115234375,
-                334.4217529296875,
-                52.396297454833987
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499981880187989,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12745.6171875,
-                334.40301513671877,
-                52.396297454833987
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499985456466675,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12742.17578125,
-                334.3900146484375,
-                52.396297454833987
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499985456466675,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12750.5380859375,
-                334.40301513671877,
-                52.396297454833987
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.649999737739563,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12758.890625,
-                334.40301513671877,
-                42.51856994628906
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499977111816407,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
                 12755.44921875,
                 334.3900146484375,
-                42.51856994628906
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.649997591972351,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12763.8115234375,
-                334.40301513671877,
-                42.51856994628906
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499985456466675,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12745.6171875,
-                334.40301513671877,
-                42.51856994628906
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.649998426437378,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12742.17578125,
-                334.3900146484375,
-                42.51856994628906
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.649998426437378,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12750.5380859375,
-                334.40301513671877,
-                42.51856994628906
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.6499992609024048,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Furniture_shelf_1side",
-            "pos": [
-                12754.6650390625,
-                336.0223083496094,
-                74.8044662475586
-            ],
-            "ypr": [
-                -179.99998474121095,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995231628418,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                12768.7197265625,
-                334.4217529296875,
-                52.39629364013672
+                52.396297454833987
             ],
             "ypr": [
                 0.0,
@@ -611,7 +419,103 @@
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
-                12768.7197265625,
+                12763.8115234375,
+                334.4217529296875,
+                52.396297454833987
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499979496002198,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12745.6171875,
+                334.40301513671877,
+                52.396297454833987
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.649998426437378,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12742.17578125,
+                334.3900146484375,
+                52.396297454833987
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.649998426437378,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12750.5380859375,
+                334.40301513671877,
+                52.396297454833987
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499996185302735,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12758.890625,
+                334.40301513671877,
+                42.51856994628906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.649997591972351,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12755.44921875,
+                334.3900146484375,
+                42.51856994628906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499974727630616,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12763.8115234375,
                 334.40301513671877,
                 42.51856994628906
             ],
@@ -627,6 +531,102 @@
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
+                12745.6171875,
+                334.40301513671877,
+                42.51856994628906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499983072280884,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12742.17578125,
+                334.3900146484375,
+                42.51856994628906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499983072280884,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12750.5380859375,
+                334.40301513671877,
+                42.51856994628906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499991416931153,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_shelf_1side",
+            "pos": [
+                12754.6650390625,
+                336.0223083496094,
+                74.8044662475586
+            ],
+            "ypr": [
+                -179.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12768.7197265625,
+                334.4217529296875,
+                52.39629364013672
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499977111816407,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12768.7197265625,
+                334.40301513671877,
+                42.51856994628906
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.6499983072280884,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
                 12773.609375,
                 334.4217529296875,
                 52.39629364013672
@@ -636,7 +636,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.649997591972351,
+            "scale": 1.6499974727630616,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -652,7 +652,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499979496002198,
+            "scale": 1.6499978303909302,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -668,7 +668,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.649997591972351,
+            "scale": 1.6499974727630616,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -684,7 +684,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.6499978303909302,
+            "scale": 1.6499977111816407,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -696,11 +696,27 @@
                 72.76496887207031
             ],
             "ypr": [
-                -179.99996948242188,
+                -179.9999542236328,
                 0.0,
                 -0.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                12775.5126953125,
+                323.64990234375,
+                85.42262268066406
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -10.999999046325684
+            ],
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         }

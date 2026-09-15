@@ -50,7 +50,6 @@
 	"WorldsData": {
 		"lightingConfig": 0,
 		"objectSpawnersArr": [
-			"./custom/admin-castle-explosives.json",
 			"./custom/admin-castle.json",
 			"./custom/bunker-enhancements.json",
 			"./custom/faction-supplies.json",

@@ -1,0 +1,644 @@
+{
+    "Objects": [
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                75.07987976074219
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                75.07987976074219
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                75.06476593017578
+            ],
+            "ypr": [
+                -8.142226584802181e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                75.44178009033203
+            ],
+            "ypr": [
+                -8.142226584802181e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                75.4188461303711
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                75.4188461303711
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                75.40373229980469
+            ],
+            "ypr": [
+                -8.142227126903268e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                72.10415649414063
+            ],
+            "ypr": [
+                -8.142223332195664e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                72.08122253417969
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                72.08122253417969
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                72.06610870361328
+            ],
+            "ypr": [
+                -8.142223332195664e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                72.44351196289063
+            ],
+            "ypr": [
+                -4.071111666097832e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                72.42057800292969
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                72.42057800292969
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                72.40546417236328
+            ],
+            "ypr": [
+                -4.071111666097832e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                72.77608489990235
+            ],
+            "ypr": [
+                -4.071112208198918e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                72.7531509399414
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                72.7531509399414
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                72.738037109375
+            ],
+            "ypr": [
+                -4.0711132924010909e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                73.11007690429688
+            ],
+            "ypr": [
+                -4.0711132924010909e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                73.08714294433594
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                73.08714294433594
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                73.07202911376953
+            ],
+            "ypr": [
+                -8.142227126903268e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                73.44904327392578
+            ],
+            "ypr": [
+                -8.142227126903268e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                73.42610931396485
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                73.42610931396485
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                73.41099548339844
+            ],
+            "ypr": [
+                -8.14222821110544e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                74.09689331054688
+            ],
+            "ypr": [
+                -8.142222247993491e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                74.07395935058594
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                74.07395935058594
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                74.05884552001953
+            ],
+            "ypr": [
+                -8.142222247993491e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                74.43624877929688
+            ],
+            "ypr": [
+                -4.0711111239967459e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                74.41331481933594
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                74.41331481933594
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                74.39820098876953
+            ],
+            "ypr": [
+                -4.071111666097832e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                74.7688217163086
+            ],
+            "ypr": [
+                -4.0711127503000046e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.8193359375,
+                336.9656982421875,
+                74.74588775634766
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                12754.916015625,
+                336.9656982421875,
+                74.74588775634766
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                12754.8837890625,
+                337.3377990722656,
+                74.73077392578125
+            ],
+            "ypr": [
+                -4.0711132924010909e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                12754.861328125,
+                336.5778503417969,
+                75.10281372070313
+            ],
+            "ypr": [
+                -4.0711132924010909e-13,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

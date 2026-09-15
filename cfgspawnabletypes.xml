@@ -803,6 +803,9 @@
 		<cargo chance="1.00">
 			<item name="Attack2Bag_Green" chance="1.00" />
 		</cargo>
+		<cargo chance="1.00">
+			<item name="HipPack_Green" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
@@ -1502,8 +1505,78 @@
 		<cargo chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</cargo>
+		<!-- ADMIN KIT -->
 		<cargo chance="1.00">
-			<item name="Barrel_Yellow" chance="1.00" />
+			<item name="M14" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MK4Optic_green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierVest_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalShirt_Olive" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="JungleBoots_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGloves_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Attack2Bag_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HipPack_Green" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="Hatchback_02_Blue">
@@ -2162,8 +2235,78 @@
 		<cargo chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</cargo>
+		<!-- ADMIN KIT -->
 		<cargo chance="1.00">
-			<item name="Barrel_Yellow" chance="1.00" />
+			<item name="M14" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MK4Optic_green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierVest_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalShirt_Olive" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="JungleBoots_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGloves_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Attack2Bag_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HipPack_Green" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="OffroadHatchback_Blue">
@@ -2650,8 +2793,78 @@
 		<cargo chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</cargo>
+		<!-- ADMIN KIT -->
 		<cargo chance="1.00">
-			<item name="Barrel_Yellow" chance="1.00" />
+			<item name="M14" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MK4Optic_green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierVest_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalShirt_Olive" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="JungleBoots_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGloves_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9v" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Attack2Bag_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HipPack_Green" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="Sedan_02_Red">
